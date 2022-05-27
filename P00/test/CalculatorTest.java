@@ -73,8 +73,6 @@ public class CalculatorTest {
 		
 		int expected = 10;
 		assertEquals(actual, expected);
-		
-		// hwehfuefewf3fu
 	}
 
 }
